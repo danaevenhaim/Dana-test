@@ -38,9 +38,7 @@ doing
 
 <br/>
 
-[terstsrtgsr](terstsrtgsr.tw7ka.sw.md)
-
-<!-- empty line --><br/>
+<br/>
 
 sljds
 
