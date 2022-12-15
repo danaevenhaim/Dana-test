@@ -38,8 +38,6 @@ doing
 
 <br/>
 
-<br/>
-
 [terstsrtgsr](terstsrtgsr.tw7ka.sw.md)
 
 <!-- empty line --><br/>
