@@ -3,8 +3,6 @@ id: 60bvm
 name: test pr
 file_version: 1.0.2
 app_version: 0.10.1-4
-file_blobs:
-  README.md: 2bd6a71f46f5318c2f1ffc241727410822065925
 ---
 
 dana
@@ -23,45 +21,16 @@ doing
 
 <br/>
 
-|[zero](zero.4d4he.sw.md)                       |[zero](zero.4d4he.sw.md)|
-|-----------------------------------------------|------------------------|
-|[Swimm Doc](swimm-doc.4d4he)|[zero](zero.sw.md)|<br/>                   |
-|`📄 README.md`                                 |[fff](fff.69i7q.sw.md)  |
+|[zero](zero.4d4he.sw.md)                                                                                                           |[zero](zero.4d4he.sw.md)  |
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+|[Swimm Doc](swimm-doc.4d4he)|[zero](zero.4d4he.sw.md)[zero](zero.4d4he.sw.md)[zero](zero.4d4he.sw.md)[zero](zero.4d4he.sw.md.sw.md)|[erter](erter.6ynmw.sw.md)|
+|<br/>                                                                                                                              |[fff](fff.69i7q.sw.md)    |
 
 <br/>
 
-[erter](erter.6ynmw.sw.md)7neDOGV/repos/Z2l0aHViJTNBJTNBRGFuYS10ZXN0JTNBJTNBZGFuYWV2ZW5oYWlt/branch/main/docs/6ynmw
+[fff](fff.69i7q.sw.md)
 
 /[zero](zero.4d4he.sw.md)
-
-### h[erter](erter.6ynmw.sw.md) [terstsrtgsr](terstsrtgsr.tw7ka.sw.md)
-
-<br/>
-
-<br/>
-
-sljds
-
-<!-- empty line --><br/>
-
-<!-- empty line --><br/>
-
-[terstsrtgsr](terstsrtgsr.tw7ka.sw.md)
-
-jkljjj
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 README.md
-```markdown
-🟩 1      # Dana-test
-🟩 2      Dana 
-🟩 3      
-```
-
-<br/>
-
-[terstsrtgsr](terstsrtgsr.tw7ka.sw.md)
-
-hey t[erter](erter.6ynmw.sw.md)re how [erter](erter.6ynmw.sw.md) you?
 
 <br/>
 
